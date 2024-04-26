@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color: plum;
+    background-color: lightgray;
+    padding: 10px;
+}
+h2 {
+    background-color: lightblue;
+    padding: 5px;
+}
+.category {
+    background-color: #f2f2f2;
+    border: 1px solid plum;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+footer {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+ul, ol {
+    margin-top: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}

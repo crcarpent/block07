@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .main-header {
+    color: #007bff; /* blue color */
+  }
+  
+  .book {
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .book img {
+    max-width: 100%;
+  }
+  
+  .book h2 {
+    margin-top: 10px;
+  }
+  
+  footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+  
+  footer a {
+    margin: 0 10px;
+  }
+  
+  .feedback-form {
+    display: none; /* Hide feedback form initially */
+  }
+  

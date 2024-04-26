@@ -1,0 +1,19 @@
+/* External CSS */
+.grocery-section {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #ccc;
+}
+
+h2 {
+    color: #27ae60;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
